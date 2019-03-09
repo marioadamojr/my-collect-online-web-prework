@@ -11,5 +11,3 @@ def my_collect(array)
     "No block was given"
   end
 end
-
-
